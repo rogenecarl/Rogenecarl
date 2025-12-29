@@ -2,55 +2,17 @@
 
 # Rogene Carl Rosalijos
 
-**Full Stack Developer** building production-ready web applications that solve real problems.
+**Full Stack Developer** · Philippines
 
-[![Email](https://img.shields.io/badge/Email-rogenecarl.dep%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rogenecarl.dep@gmail.com)
-[![Location](https://img.shields.io/badge/Philippines-Davao_del_Sur-0066FF?style=flat-square&logo=googlemaps&logoColor=white)](#)
+Building production-ready web applications with modern tools.
+
+[![Email](https://img.shields.io/badge/rogenecarl.dep%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rogenecarl.dep@gmail.com)
 
 </div>
 
 ---
 
-## About
-
-I build and deploy complete web applications from database to deployment. My work includes a **healthcare platform with geolocation services** and an **event registration system that served 800+ users** in production.
-
-**What I bring to teams:**
-- End-to-end development: I handle frontend, backend, databases, and deployment
-- Production experience: Shipped real applications used by real people
-- Modern stack proficiency: TypeScript, React/Next.js, Node.js, PostgreSQL
-
----
-
-## Featured Projects
-
-### [Himsog](https://github.com/rogenecarl) — Healthcare Discovery Platform
-> Next.js • TypeScript • Prisma • Supabase • PostgreSQL • Mapbox
-
-Healthcare platform enabling patients to locate and book appointments with nearby medical providers.
-- Integrated Mapbox API for interactive geolocation within configurable radius
-- Reduced API calls by **40%** through intelligent caching with Zustand + TanStack Query
-- Deployed on Vercel with PostgreSQL on Supabase/NeonDB
-
-### [SCMD UFY Registration](https://github.com/rogenecarl) — Client Project
-> Next.js • TypeScript • Prisma • Supabase • PostgreSQL
-
-Production event registration system for a religious organization.
-- Successfully processed **800+ attendee registrations**
-- Built admin dashboard for managing registrations and exporting data
-- Handled high-volume concurrent registrations
-
-### [Inventory Management + POS](https://github.com/rogenecarl)
-> Laravel • React • TypeScript • PostgreSQL • Supabase
-
-Full-stack inventory and point-of-sale system with real-time stock tracking.
-- RESTful API backend with Laravel
-- Role-based access control (admin, manager, cashier)
-- Sales analytics dashboard
-
----
-
-## Tech Stack
+### Tech Stack
 
 <table>
 <tr>
@@ -71,12 +33,12 @@ Full-stack inventory and point-of-sale system with real-time stock tracking.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**Database & Tools**
+**Database & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -89,27 +51,19 @@ Full-stack inventory and point-of-sale system with real-time stock tracking.
 
 ---
 
-## Achievements
-
-- **Top 3** — Davao del Sur Startup Pitching Competition (DICT Region 11, IDEAS Davao, DEVCON)
-- **Vice President** — Programmers Guild of IT Students (PGITS)
-- **BS Information Technology** — University of Mindanao Digos College (Expected 2026)
-
----
-
-## GitHub Stats
-
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rogenecarl&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rogenecarl&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
 </div>
 
 ---
 
 <div align="center">
 
-**Open to opportunities** — Let's build something great together.
-
-[![Email Me](https://img.shields.io/badge/Hire_Me-rogenecarl.dep%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogenecarl.dep@gmail.com)
+**Open to opportunities** · [rogenecarl.dep@gmail.com](mailto:rogenecarl.dep@gmail.com)
 
 </div>
