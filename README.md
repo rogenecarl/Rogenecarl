@@ -76,11 +76,19 @@ Full Stack Developer with experience building and deploying production-ready web
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogenecarl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rogenecarl&theme=tokyonight" />
+<!-- GitHub Stats Card: Shows commits, PRs, issues, contributions -->
+<img src="https://github-readme-stats.vercel.app/api?username=rogenecarl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&langs_count=8&theme=tokyonight" />
+<!-- GitHub Streak: Shows current streak, longest streak, total contributions -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rogenecarl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<!-- GitHub Activity Graph: Shows contribution calendar -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogenecarl&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
 </div>
 
 ---
