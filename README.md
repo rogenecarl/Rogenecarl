@@ -18,7 +18,7 @@ Full Stack Developer with experience building and deploying production-ready web
 - Backend development with **Node.js**, **Express**, and **Laravel**
 - Database design with **PostgreSQL**, **MySQL**, and **Prisma ORM**
 - Cloud deployment on **Vercel**, **Render**, and **Azure**
-- Integrating **AI/LLM** capabilities into applications
+- Integrating **AI/LLM** capabilities into applications.
 
 ---
 
