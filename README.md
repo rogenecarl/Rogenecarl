@@ -2,7 +2,7 @@
 
 # Rogene Carl Rosalijos
 
-**Full Stack Developer** · Philippines
+**Full Stack Developer** · Philippines 
 
 [![Email](https://img.shields.io/badge/rogenecarl.dep%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rogenecarl.dep@gmail.com)
 
