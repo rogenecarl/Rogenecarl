@@ -84,12 +84,6 @@ Full Stack Developer with experience building and deploying production-ready web
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rogenecarl&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rogenecarl&theme=default&hide_border=true" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rogenecarl&theme=tokyonight&hide_border=true" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&langs_count=8&theme=default&hide_border=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
