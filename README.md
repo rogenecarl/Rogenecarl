@@ -86,21 +86,17 @@
 
   ### GitHub Stats
 
- <div align="center">
+<div align="center">
 
-<img src="https://github-readme-stats-zeta-tawny-20.vercel.app/api?username=rogenecarl&show_icons=true&theme=tokyonigh
-  t&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
- 
- <img src="https://github-readme-stats-zeta-tawny-20.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&langs
-  _count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-zeta-tawny-20.vercel.app/api?username=rogenecarl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogenecarl&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak" />
+  <img src="https://github-readme-stats-zeta-tawny-20.vercel.app/api/top-langs/?username=rogenecarl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogenecarl&theme=tokyo-night&hide_border=true
-  &area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogenecarl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  </div>>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rogenecarl&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+  </div>
 
   ---
 
