@@ -6,7 +6,7 @@
 
   Building end-to-end web applications — from database to deployment.
 
-  [![Email](https://img.shields.io/badge/rogenecarl.dep%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+ [![Email](https://img.shields.io/badge/rogenecarl.dep%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
   ](mailto:rogenecarl.dep@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ro
   genecarl.vercel.app)
